@@ -2,7 +2,7 @@ import os
 
 from werkzeug.utils import secure_filename
 
-import app
+import main
 
 UPLOAD_FOLDER = "inputs"
 ALLOWED_EXTENSIONS = {'jpg'}
